@@ -1,0 +1,6 @@
+{
+    "app_name": "Currency Now",
+    "flavor_name": "development",
+    "api_base_url": "https://api.fastforex.io/",
+    "api_key": "5529348449-a2443b8e63-rk76wp"
+}
